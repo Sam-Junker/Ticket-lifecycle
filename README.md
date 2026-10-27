@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="C:\Users\blf02\OneDrive\Desktop\San's classwork\CourseCareers"/>
+<img src="<img width="687" height="896" alt="osTicket-1" src="https://github.com/user-attachments/assets/f1b76cf7-fe00-42f7-a101-ef20e3b39e9a" />"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
